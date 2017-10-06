@@ -6,6 +6,7 @@
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/TicTacToeDrawing.java</file>
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/WinningChecker.java</file>
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/Player.java</file>
+            <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/BoardSpaces.java</file>
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/startingPanel.java</file>
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/JPanelController.java</file>
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/gameLayout.java</file>
@@ -14,7 +15,6 @@
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/selectingPlayerAvatar.java</file>
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/boardButton.java</file>
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/mainPanelBackground.java</file>
-            <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/Driver.java</file>
             <file>file:/home/chris/Programming/Java%20GUI/TicTacToe/tictactoe/src/enterPlayerInformation.java</file>
         </group>
     </open-files>

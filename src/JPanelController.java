@@ -98,7 +98,7 @@ public class JPanelController extends JPanel implements ActionListener{
             main.setPlayers(player1, player2);
             cards.next(this);
             //cards.show(this, "Main Screen");
-         }else if(main.statusOfGame()){
+//         }else if(main.statusOfGame()){
          
             
             /************************STILL WORKING ON THIS PART**********************/

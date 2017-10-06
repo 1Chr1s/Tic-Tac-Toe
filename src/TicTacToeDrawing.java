@@ -203,6 +203,8 @@ public class TicTacToeDrawing extends JPanel implements ActionListener{
                             }
                         break;
                 }
+                // Check if the board is completely full: 
+                
                 
                 // Change to the next player:
                 this.nextPlayer();
